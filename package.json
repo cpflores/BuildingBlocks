@@ -1,0 +1,14 @@
+{
+  "name": "BuildingBlocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Flores <chadwickflores@gmail.com> (http://buildred.co/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
